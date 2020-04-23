@@ -2,6 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+The following installations are required:
+React
+Node
+react-google-charts
+alasql
+
 In the project directory, you can run:
 
 ### `npm start`
